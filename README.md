@@ -37,6 +37,16 @@ Ocean wave conditions directly affect the safety of fishermen at sea. This proje
 - Peak Direction Model — predicts peak wave direction (°)
 - Safety Classification Function — maps predicted Hs to a safety level based on vessel type
 
+=== Wave Height Model (Hs) ===
+MAE  : 0.1619 m
+RMSE : 0.2091 m
+R²   : 0.9760
+
+=== Peak Direction Model ===
+MAE  : 93.3422 °
+RMSE : 107.6051 °
+R²   : -0.0571
+
 ---
 
 ## ⚙️ Workflow:
