@@ -41,9 +41,9 @@ Ocean wave conditions directly affect the safety of fishermen at sea. This proje
 --------------------------------
 |=== Wave Height Model (Hs) ===|
 --------------------------------
-|MAE  : 0.1619 m               |
-|RMSE : 0.2091 m               |
-|R²   : 0.9760                 |
+|MAE  | 0.1619 m               |
+|RMSE | 0.2091 m               |
+|R²   | 0.9760                 |
 --------------------------------
 ---
 ------------------------------
