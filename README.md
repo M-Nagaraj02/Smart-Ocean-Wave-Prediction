@@ -73,16 +73,16 @@ Ocean wave conditions directly affect the safety of fishermen at sea. This proje
 - Achieves strong R² performance on unseen test data.
 - Fishing safety is correctly classified across all four vessel categories (shore, small, medium, large).
 
-|=============================================|
+
 |       📊 PREDICTION RESULTS                 |
-|=============================================|
+|---------------------------------------------|
 |  Predicted Wave Height (Hs) : 0.13 m        | 
 |  Predicted Peak Direction   : 160.9 °       |
-|=============================================|
+|---------------------------------------------|
 |  Vessel Type : SMALL                        |
 |  Decision    : ✅ Safe for small boats      |
 |  Status      : SAFE                         |
-|=============================================|
+|---------------------------------------------|
 ⚠️  Always check real-time weather before fishing!
 
 ---
