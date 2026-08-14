@@ -84,12 +84,12 @@ Ocean wave conditions directly affect the safety of fishermen at sea. This proje
 
 ## ⚓ Safety Classification:
 
-Vessel Type	Safe	Caution	Unsafe
-Shore	Hs ≤ 0.5 m	0.5 – 1.0 m	> 1.0 m
-Small Boat	Hs ≤ 0.5 m	0.5 – 1.0 m	> 1.0 m
-Medium Boat	Hs ≤ 1.0 m	1.0 – 2.0 m	> 2.0 m
-Large Boat	—	Hs ≤ 3.0 m	> 3.0 m
-
+| Vessel Type | Safe        | Caution      | Unsafe    |
+|-------------|-------------|--------------|-----------|
+| Shore       | Hs ≤ 0.5 m  | 0.5 – 1.0 m  | > 1.0 m   |
+| Small Boat  | Hs ≤ 0.5 m  | 0.5 – 1.0 m  | > 1.0 m   |
+| Medium Boat | Hs ≤ 1.0 m  | 1.0 – 2.0 m  | > 2.0 m   |
+| Large Boat  | —           | Hs ≤ 3.0 m   | > 3.0 m   |
 ---
 
 ## ⚠️ Disclaimer: 
