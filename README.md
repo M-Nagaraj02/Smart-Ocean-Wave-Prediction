@@ -78,11 +78,10 @@ Ocean wave conditions directly affect the safety of fishermen at sea. This proje
 |---------------------------------------------|
 |  Predicted Wave Height (Hs) : 0.13 m        | 
 |  Predicted Peak Direction   : 160.9 °       |
-|---------------------------------------------|
 |  Vessel Type : SMALL                        |
 |  Decision    : Safe for small boats         |
 |  Status      : SAFE                         |
-|---------------------------------------------|
+
 ⚠️  Always check real-time weather before fishing!
 
 ---
