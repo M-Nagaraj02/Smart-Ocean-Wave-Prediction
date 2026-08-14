@@ -38,7 +38,7 @@ Ocean wave conditions directly affect the safety of fishermen at sea. This proje
 - Safety Classification Function — maps predicted Hs to a safety level based on vessel type
 ---
 *Output*
-
+-------------------------------
 |=== Wave Height Model (Hs) ===|
 --------------------------------
 |MAE  : 0.1619 m               |
@@ -46,7 +46,7 @@ Ocean wave conditions directly affect the safety of fishermen at sea. This proje
 |R²   : 0.9760                 |
 --------------------------------
 
----
+------------------------------
 |=== Peak Direction Model ===|
 -----------------------------|
 |MAE  : 93.3422 °            |  
